@@ -1,0 +1,158 @@
+{
+  "settings": {
+    "name": "Site-01-12_1422",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#c0a375",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#f28281",
+        "titleFont": "Montserrat",
+        "subtitleFont": "Lora",
+        "textFont": "Raleway",
+        "isRoundedButtons": false,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": false,
+        "isRtl": false
+      },
+      "additionalSetColors": []
+    },
+    "versionFirst": "4.5.2",
+    "uniqCompNum": 3,
+    "versionPublish": "4.5.2"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Home",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "animText1": "ITU ASIK BRO",
+            "animText2": "GAK RIBET BRO",
+            "animText3": "BIKIN KAMU HAPPY BRO",
+            "typeSpeed": 60,
+            "paddingTop": 3,
+            "paddingBottom": 2,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-785x1080.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#efefef",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.1
+          },
+          "title": "BELAJAR ISLAM&nbsp;",
+          "text": "Yuk, isi form berikut untuk dapatkan bimbingan islam secara intensif",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"index.html#custom-html-2\" data-toolbar=\"-mbrBtnMove\">ISI FORMULIR</a>",
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extMsg-box2",
+          "_anchor": "extMsg-box2-0",
+          "_styles": {
+            "SPAN": {
+              "color": "#ffffff"
+            },
+            "P": {
+              "color": "#ffffff"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "collapseAll": false,
+            "tabs": "3",
+            "imageSize": 50,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extAccordion1_bg.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.5
+          },
+          "title": "Tanya Jawab",
+          "title1": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#accordion_1\" data-core=\"\" href=\"#collapseOne_1\" aria-expanded=\"true\" aria-controls=\"collapseOne\"><span class=\"sign\"></span>Apakah Berbayar?</a>",
+          "title2": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#accordion_1\" data-core=\"\" href=\"#collapseTwo_1\" aria-expanded=\"true\" aria-controls=\"collapseTwo\">Apa saja materi yang diajarkan</a>",
+          "title3": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion_1\" data-core=\"\" href=\"#collapseThree_1\" aria-expanded=\"false\" aria-controls=\"collapseThree\">Tempatnya dimana?</a>",
+          "title4": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseFour\" aria-expanded=\"false\" aria-controls=\"collapseFour\">This is a accordion Title 4</a>",
+          "title5": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseFive\" aria-expanded=\"false\" aria-controls=\"collapseFive\">This is a accordion Title 5</a>",
+          "title6": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseSix\" aria-expanded=\"false\" aria-controls=\"collapseSix\">This is a accordion Title 6</a>",
+          "text1": "<p>Tidak, program ini gratis 100 %</p>",
+          "text2": "<p>Kami fokus di materi Tata cara Sholat dan Membaca Al Qur'an</p>",
+          "text3": "<p>Tempat fleksibel. Bisa di masjid Islamic Center Muadz Bin Jabal atau di tempat lain yanng kamu suka.</p>",
+          "text4": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio. </p>",
+          "text5": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio. </p>",
+          "text6": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio. </p>",
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extAccordion2.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://youtu.be/ob3bhgKSZXE",
+              "aspectratio": "16:9",
+              "autoplay": "on",
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extAccordion2",
+          "_anchor": "extAccordion2-1"
+        },
+        {
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "<iframe src=\"https://docs.google.com/forms/d/e/1FAIpQLSecayQ5XPJfNaRH7wxrPsfhZl9KWnX5XzAhkW4FpXY4-hoSzw/viewform?embedded=true\" width=\"100%\" height=\"2900\" frameborder=\"0\" marginheight=\"0\" marginwidth=\"0\">Memuat...</iframe>",
+          "_customCSS": "/* Type valid CSS here */\n.my-image {\n  width: 100%;\n}",
+          "alias": "code-editor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "pro.custom-html",
+          "_anchor": "custom-html-2",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": []
+        }
+      ]
+    }
+  }
+}
